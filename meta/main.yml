@@ -15,5 +15,4 @@ galaxy_info:
         - 8
   galaxy_tags:
     - nfs
-dependencies:
-  - leo9440.conf_base        
+dependencies: []  
